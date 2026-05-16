@@ -1,4 +1,4 @@
-<!-- SUJAL DEB — GitHub Profile README v2 | Clean Editorial Edition -->
+<!-- SUJAL DEB — GitHub Profile README v3 -->
 
 <div align="center">
 
@@ -11,9 +11,9 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-sujaldeb.in-0d1117?style=flat-square&logo=safari&logoColor=3B82F6&labelColor=161b22&color=161b22)](http://sujaldeb.in)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=flat-square&logo=linkedin&logoColor=3B82F6&labelColor=161b22&color=161b22)](https://linkedin.com/in/sujal-deb)&nbsp;
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Opportunities-161b22?style=flat-square&logo=circle&logoColor=4ADE80&labelColor=161b22&color=161b22)](http://sujaldeb.in)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sujaldeb.in-161b22?style=flat-square&logo=safari&logoColor=3B82F6&labelColor=161b22)](http://sujaldeb.in)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-161b22?style=flat-square&logo=linkedin&logoColor=3B82F6&labelColor=161b22)](https://linkedin.com/in/sujal-deb)&nbsp;
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Opportunities-161b22?style=flat-square&logoColor=4ADE80&labelColor=161b22)](http://sujaldeb.in)
 
 </div>
 
@@ -25,10 +25,13 @@
 
 ## Impact
 
-| | | | |
-|:---:|:---:|:---:|:---:|
+<div align="center">
+
 | **15M+** | **370K+** | **1.5M+** | **90%+** |
+|:---:|:---:|:---:|:---:|
 | Records processed | Listings analyzed | Transactions studied | Model accuracy |
+
+</div>
 
 <br/>
 
@@ -40,13 +43,13 @@
 
 ```python
 sujal = {
-    "role"        : ["Data Analyst", "Data Scientist"],
-    "focus"       : ["EDA", "ML Modeling", "Business Intelligence", "Analytics Engineering"],
-    "stack"       : ["Python", "SQL", "Scikit-learn", "Power BI"],
-    "currently"   : "Building end-to-end analytics systems that answer the real question",
-    "open_to"     : "Data Analyst / Data Scientist roles",
-    "location"    : "India",
-    "website"     : "sujaldeb.in"
+    "role"      : ["Data Analyst", "Data Scientist"],
+    "focus"     : ["EDA", "ML Modeling", "Business Intelligence", "Analytics Engineering"],
+    "stack"     : ["Python", "SQL", "Scikit-learn", "Power BI"],
+    "currently" : "Building end-to-end analytics systems that answer the real question",
+    "open_to"   : "Data Analyst / Data Scientist roles",
+    "location"  : "India",
+    "website"   : "sujaldeb.in"
 }
 ```
 
@@ -58,25 +61,21 @@ sujal = {
 
 ## Stack
 
-**Data & Analysis**&emsp;
-![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=60a5fa)&nbsp;
-![Pandas](https://img.shields.io/badge/Pandas-161b22?style=flat-square&logo=pandas&logoColor=60a5fa)&nbsp;
-![NumPy](https://img.shields.io/badge/NumPy-161b22?style=flat-square&logo=numpy&logoColor=60a5fa)&nbsp;
-![SQL](https://img.shields.io/badge/SQL-161b22?style=flat-square&logo=postgresql&logoColor=60a5fa)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-161b22?style=flat-square&logo=mysql&logoColor=60a5fa)
+<div align="center">
 
-**Machine Learning**&emsp;
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-161b22?style=flat-square&logo=scikit-learn&logoColor=60a5fa)&nbsp;
-![XGBoost](https://img.shields.io/badge/XGBoost-161b22?style=flat-square&logoColor=60a5fa)&nbsp;
-![SciPy](https://img.shields.io/badge/SciPy-161b22?style=flat-square&logo=scipy&logoColor=60a5fa)&nbsp;
-![StatsModels](https://img.shields.io/badge/StatsModels-161b22?style=flat-square&logoColor=60a5fa)
+**Data & Analysis**
 
-**Visualization & BI**&emsp;
-![Power BI](https://img.shields.io/badge/Power%20BI-161b22?style=flat-square&logo=powerbi&logoColor=60a5fa)&nbsp;
-![Tableau](https://img.shields.io/badge/Tableau-161b22?style=flat-square&logo=tableau&logoColor=60a5fa)&nbsp;
-![Plotly](https://img.shields.io/badge/Plotly-161b22?style=flat-square&logo=plotly&logoColor=60a5fa)&nbsp;
-![Matplotlib](https://img.shields.io/badge/Matplotlib-161b22?style=flat-square&logoColor=60a5fa)&nbsp;
-![Seaborn](https://img.shields.io/badge/Seaborn-161b22?style=flat-square&logoColor=60a5fa)
+[![My Skills](https://skillicons.dev/icons?i=python,mysql&theme=dark)](https://skillicons.dev)
+
+**Machine Learning & Stats**
+
+[![My Skills](https://skillicons.dev/icons?i=sklearn,tensorflow&theme=dark)](https://skillicons.dev)
+
+**Visualization & Tools**
+
+[![My Skills](https://skillicons.dev/icons?i=powerbi,github,vscode,jupyter&theme=dark)](https://skillicons.dev)
+
+</div>
 
 <br/>
 
@@ -88,7 +87,7 @@ sujal = {
 
 ### [Vendor Performance & Inventory Analytics](https://github.com/sujaldeb/vendor-analysis-end-to-end)
 
-`Python` `SQL` `Power BI` `Scikit-learn` `SciPy`
+`Python` &nbsp; `SQL` &nbsp; `Power BI` &nbsp; `Scikit-learn` &nbsp; `SciPy`
 
 End-to-end analytics pipeline on **15M+ liquor distribution records** — vendor performance scoring, overstock risk detection, and underperforming product prediction.
 
@@ -100,7 +99,7 @@ End-to-end analytics pipeline on **15M+ liquor distribution records** — vendor
 
 ### [E-commerce Business Analytics System — Olist](https://github.com/sujaldeb/E-commerce-Business-Analytics-System-Olist)
 
-`SQL` `Python` `CTEs` `Window Functions` `Pandas`
+`SQL` &nbsp; `Python` &nbsp; `CTEs` &nbsp; `Window Functions` &nbsp; `Pandas`
 
 Analyzed **1.5M+ transactions** across a multi-vendor marketplace to uncover retention failure, delivery impact on satisfaction, and revenue concentration patterns.
 
@@ -112,7 +111,7 @@ Analyzed **1.5M+ transactions** across a multi-vendor marketplace to uncover ret
 
 ### [Used Car Pricing Intelligence System](https://github.com/sujaldeb/Used-Car-Pricing-Intelligence-System)
 
-`Python` `Scikit-learn` `EDA` `Feature Engineering` `Regression`
+`Python` &nbsp; `Scikit-learn` &nbsp; `EDA` &nbsp; `Feature Engineering` &nbsp; `Regression`
 
 End-to-end ML system on **370K+ listings** to predict fair vehicle prices, flag overpriced listings, and surface key price drivers.
 
@@ -124,7 +123,7 @@ End-to-end ML system on **370K+ listings** to predict fair vehicle prices, flag 
 
 ### [Credit Risk & Loan Amount Prediction](https://github.com/sujaldeb/credit-risk-loan-amount-detection)
 
-`Python` `Classification` `Regression` `SMOTE` `LendingClub`
+`Python` &nbsp; `Classification` &nbsp; `Regression` &nbsp; `SMOTE` &nbsp; `LendingClub`
 
 End-to-end ML pipeline for credit risk classification and loan amount prediction on **2.26M LendingClub records**.
 
@@ -136,7 +135,7 @@ End-to-end ML pipeline for credit risk classification and loan amount prediction
 
 ### [Property Price Prediction](https://github.com/sujaldeb/Property-Price-Prediction)
 
-`Python` `Ridge Regression` `Scikit-learn` `Feature Engineering`
+`Python` &nbsp; `Ridge Regression` &nbsp; `Scikit-learn` &nbsp; `Feature Engineering`
 
 Machine learning model predicting property prices with **90% accuracy** using Ridge Regression with robust feature engineering.
 
@@ -147,7 +146,7 @@ Machine learning model predicting property prices with **90% accuracy** using Ri
 
 ### [E-Commerce Customer Intelligence Platform](https://github.com/sujaldeb/E-Commerce-Customer-Intelligence-Platform)
 
-`Python` `RFM Analysis` `Time-Series` `Association Rules` `ML`
+`Python` &nbsp; `RFM Analysis` &nbsp; `Time-Series` &nbsp; `Association Rules`
 
 End-to-end retail analytics platform on **1.06M transactions** — customer segmentation, retention analysis, revenue forecasting, and product association insights.
 
@@ -165,10 +164,30 @@ End-to-end retail analytics platform on **1.06M transactions** — customer segm
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujaldeb&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3B82F6&icon_color=3B82F6&text_color=8b949e&ring_color=3B82F6)&nbsp;&nbsp;
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujaldeb&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3B82F6&icon_color=3B82F6&text_color=8b949e)&nbsp;&nbsp;
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujaldeb&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3B82F6&text_color=8b949e)
 
+<br/>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=sujaldeb&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=8b949e&dates=8b949e)](https://git.io/streak-stats)
+
+<br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sujaldeb&theme=onestar&no-frame=true&no-bg=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## Contribution Activity
+
+<div align="center">
+
+![snake animation](https://github.com/sujaldeb/sujaldeb/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
